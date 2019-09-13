@@ -4,25 +4,11 @@ title: About
 permalink: /about/
 ---
 
-The [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) is a 9 courses series on Data Science. Every class in the series runs every month, and the course material is availible on [GitHub](https://github.com/DataScienceSpecialization/courses).
+我是一个个人爱好者，爱好各种神奇的技术，电脑，CAD/CAM/CAE.
 
-### The JHU Data Science Lab:
+### 超神大佬
 
-- [Brian Caffo](http://www.bcaffo.com/)
-- [Jeff Leek](http://jtleek.com/)
-- [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/)
-- [Nick Carchedi](http://nickcarchedi.com/)
-- [Sean Kross](http://seankross.com/)
+-(lsk)[https://github.com/SklBrav]
+-(申振升)[https://github.com/Memorykill]
 
-### Community Contributors:
 
-- [Kevin Markham](http://www.dataschool.io/)
-- Derek Franks
-- David Hood
-- [Leonard Greski](https://github.com/lgreski)
-- Michael Sachs
-- Allan Inocêncio de Souza Costa
-- [stepds](https://github.com/stepds)
-- Bastiaan Quast
-- [Xing Su](http://sux13.github.io/DataScienceSpCourseNotes/)
-- [Edmund julian Ofilada](https://github.com/DocOfi)
