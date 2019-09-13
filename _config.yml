@@ -1,11 +1,11 @@
 # Site settings
-title: Data Science Specialization
+title: 博客
 email:
-description: Community Site
+description: 中国lsk的博客
 baseurl:
 url:
 twitter_username:
-github_username:  DataScienceSpecialization
+github_username:  LSK
 
 # Build settings
 markdown: kramdown
